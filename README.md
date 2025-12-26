@@ -45,4 +45,4 @@ Ce projet illustre la mise en place d'une solution décisionnelle complète (Bus
 
 ---
 
-**Auteur : Maimouna Abdoulaye oiga , etudiante en master de ciences et ingénierie des données**
+**Auteur : Maimouna Abdoulaye oiga , Etudiante en master de sciences et ingénierie des données**
